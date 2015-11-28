@@ -1,0 +1,17 @@
+C:\_GitHub\BatchFileRenamer\BatchFileRenamer\BatchFileRenamer\bin\Debug\BatchFileRenamer.exe.config
+C:\_GitHub\BatchFileRenamer\BatchFileRenamer\BatchFileRenamer\bin\Debug\BatchFileRenamer.exe
+C:\_GitHub\BatchFileRenamer\BatchFileRenamer\BatchFileRenamer\bin\Debug\BatchFileRenamer.pdb
+C:\_GitHub\BatchFileRenamer\BatchFileRenamer\BatchFileRenamer\obj\Debug\BatchFileRenamer.csprojResolveAssemblyReference.cache
+C:\_GitHub\BatchFileRenamer\BatchFileRenamer\BatchFileRenamer\obj\Debug\BatchFileRenamer.Form1.resources
+C:\_GitHub\BatchFileRenamer\BatchFileRenamer\BatchFileRenamer\obj\Debug\BatchFileRenamer.Properties.Resources.resources
+C:\_GitHub\BatchFileRenamer\BatchFileRenamer\BatchFileRenamer\obj\Debug\BatchFileRenamer.csproj.GenerateResource.Cache
+C:\_GitHub\BatchFileRenamer\BatchFileRenamer\BatchFileRenamer\obj\Debug\BatchFileRenamer.exe
+C:\_GitHub\BatchFileRenamer\BatchFileRenamer\BatchFileRenamer\obj\Debug\BatchFileRenamer.pdb
+C:\_GitHub\BatchFileRenamer\BatchFileRenamer\BatchFileRenamer\ee\BatchFileRenamer.exe.config
+C:\_GitHub\BatchFileRenamer\BatchFileRenamer\executable\BatchFileRenamer.exe.config
+C:\_GitHub\BatchFileRenamer\BatchFileRenamer\executable\BatchFileRenamer.exe
+C:\_GitHub\BatchFileRenamer\BatchFileRenamer\executable\BatchFileRenamer.pdb
+C:\_GitHub\BatchFileRenamer\BatchFileRenamer\executable\tr\BatchFileRenamer.resources.dll
+C:\_GitHub\BatchFileRenamer\BatchFileRenamer\BatchFileRenamer\obj\Debug\BatchFileRenamer.Resources.resources
+C:\_GitHub\BatchFileRenamer\BatchFileRenamer\BatchFileRenamer\obj\Debug\BatchFileRenamer.Resources.tr.resources
+C:\_GitHub\BatchFileRenamer\BatchFileRenamer\BatchFileRenamer\obj\Debug\tr\BatchFileRenamer.resources.dll
